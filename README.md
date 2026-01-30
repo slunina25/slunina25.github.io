@@ -1,2 +1,2 @@
-# slunina25-visitka.github.io
+# slunina25.github.io
 Сайт визитка HTML, CSS
